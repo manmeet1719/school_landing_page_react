@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "About Our School",
+        "paragraph": "Established in 1972, the school is a premier institution of DAV. An ISA 2017-20 certified, Microsoft school, providing CBSE and Cambridge International Curriculum, KHMS sets global standards of teaching and learning."
+
+    },
+    "About": {
+        "paragraph": "Established in 1972, the school is a premier institution of DAV. An ISA 2017-20 certified, Microsoft school, providing CBSE and Cambridge International Curriculum, KHMS sets global standards of teaching and learning. Today, with over 4 decades of providing exponential learning, spread in three green campuses, large playgrounds, latest tech savvy smart classrooms, 3 large auditoriums, open air theatres, resource rooms, ATL Lab, AI Lab, Astro Physics Lab fully equipped computer labs, conference room, lecture theatres, Digital Library with a large resource pool of e-books, automated office block, the school seeks to evolve socially responsible, physically strong, aesthetically rich, emotionally balanced, confident, communicative, creative, collaborative global citizens equipped with 21st century competencies to tackle the challenges of the world with a firm value system, positive attitude and diligence of habit. Adding international dimensions to learning through the ISA award by the British Council, GVC, Microsoft, Generation Global, exchange programmes etc, the school seeks to fulfill the aspirations of students, preparing them for global employability and entrepreneurship. Understanding its social responsibility, the School initiates various social and environmental projects. The installation of Solar Panels, Water Harvesting Plant, Waste Disposal Systems are some of the latest measures taken by the school to ensure judicious conservation of precious resources. KHMS with its motto ‘Asto Ma Sadogamaya’ spreads the light of education in the lives of thousands and ensures that each student receives support, encouragement and ample opportunity to maximize achievement as they step into the world as change markers and innovators.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "https://i.ytimg.com/vi/RdOgSJNAxbg/maxresdefault.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Karan"
+        },
+        {
+            "img": "data:image/jpeg;base64,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",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "kanika"
+        },
+        {
+            "img": "https://www.extravelmoney.com/blog/wp-content/uploads/2017/02/Exams-to-study-abroad-from-India2.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Karan"
+        },
+        {
+            "img": "https://www.extravelmoney.com/blog/wp-content/uploads/2017/02/Exams-to-study-abroad-from-India2.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "kanika"
+        },
+        {
+            "img": "https://www.extravelmoney.com/blog/wp-content/uploads/2017/02/Exams-to-study-abroad-from-India2.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "preeti"
+        },
+        {
+            "img": "https://www.extravelmoney.com/blog/wp-content/uploads/2017/02/Exams-to-study-abroad-from-India2.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "kanika"
+        }
+    ],
+    "Team": [{
+            "img": "https://i.ytimg.com/vi/RdOgSJNAxbg/maxresdefault.jpg",
+            "name": "Sumita Arora",
+            "job": "Science Teacher HOD"
+        },
+        {
+            "img": "https://static.businessworld.in/article/article_extra_large_image/1508762067_bdA9ca_Beas-Dev-Ralhan--470.jpg",
+            "name": "Salman Khan",
+            "job": "Maths HOD"
+        }, {
+            "img": "https://images.indianexpress.com/2019/02/swaroop-r-759.jpg",
+            "name": "Neha Kakkad",
+            "job": "Social Science HOD"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUffygoo69r0PrFkTkF50nqWpDvSGGps5-w&usqp=CAU",
+            "name": "Kiran Sethi",
+            "job": "Sports Mentor"
+        }
+    ],
+    "Contact": {
+        "address": "A-32 Ashok Vihar",
+        "phone": "+91-8888876923",
+        "email": "info@khms.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-book",
+            "title": "Library",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-flask",
+            "title": "Science Lab",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-desktop",
+            "title": "Computer Lab",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-futbol-o",
+            "title": "Sports",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
